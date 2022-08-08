@@ -1,0 +1,4 @@
+github.com/gen2brain/go-fitz v1.20.1 h1:i5GPe/58q/gbNqa2mO+ZcTymwowbJEsDOXp7D0JwxgU=
+github.com/gen2brain/go-fitz v1.20.1/go.mod h1:UZAxMETTDK4UPpuh80HaRpPzgkSibUihXVzwj2ip5oQ=
+gopkg.in/gographics/imagick.v2 v2.6.1 h1:al9+AuvXw+lrJDkAoUkC+79CoFq0ehO8u0SQaYaZaYY=
+gopkg.in/gographics/imagick.v2 v2.6.1/go.mod h1:/QVPLV/iKdNttRKthmDkeeGg+vdHurVEPc8zkU0XgBk=
